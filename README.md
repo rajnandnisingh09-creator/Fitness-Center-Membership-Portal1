@@ -1,4 +1,4 @@
-🏋️ #Fitness Center Membership Portal
+#🏋️ Fitness Center Membership Portal
 
 A Salesforce-based solution designed to replace manual gym management processes. This project streamlines member registration, class bookings, and payments while providing real-time operational insights for staff and a self-service portal for members.
 
